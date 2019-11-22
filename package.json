@@ -1,0 +1,10 @@
+{
+  "name": "data-struct-and-friends",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jose Cerqueira <jose@origensmedia.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
